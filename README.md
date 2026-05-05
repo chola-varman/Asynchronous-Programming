@@ -2,6 +2,8 @@
 
 ---
 
+
+
 ## Table of Contents
 
 - [Core Concepts](#core-concepts)
@@ -20,6 +22,17 @@
 - [Quick Reference](#quick-reference)
 
 ---
+
+## Getting started
+
+```bash
+git clone https://github.com/your-username/async-dotnet-demo.git
+cd async-dotnet-demo
+dotnet run
+```
+
+Requires [.NET 8 SDK](https://dotnet.microsoft.com/download)
+
 
 ## Core Concepts
 
